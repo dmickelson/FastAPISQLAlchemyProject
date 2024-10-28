@@ -31,6 +31,8 @@ A modern REST API project built with FastAPI and SQLAlchemy, providing a robust 
 pip install fastapi uvicorn sqlalchemy
 ```
 
+[image](1_Hjn46ufGabp3Of-IgrP3pg.webp)
+
 ## Running the Application
 
 Start the server:
